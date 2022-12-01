@@ -1,6 +1,5 @@
 # Telco Churn Feature Engineering Project
 
-### Telco Churn Feature Engineering ###
 
 ## İŞ PROBLEMİ 
 
