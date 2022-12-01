@@ -8,7 +8,8 @@
 geliştirilmesi istenmektedir. Modeli geliştirmeden önce gerekli olan veri analizi
 ve özellik mühendisliği adımları gerçekleştirilecek ve nihayetinde model geliştirilecektir.
 
-##PROJE ADIMLARI
+## PROJE ADIMLARI
+
 1- Keşifçi Veri Analizi
 
 Numerik ve kategorik değişkenlerin belirlenmesi ve analizi.
