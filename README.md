@@ -10,14 +10,21 @@ ve özellik mühendisliği adımları gerçekleştirilecek ve nihayetinde model 
 
 ##PROJE ADIMLARI
 1- Keşifçi Veri Analizi
+
 Numerik ve kategorik değişkenlerin belirlenmesi ve analizi.
+
 Hedef değişkenin numerik ve kategorik değişkenlere göre analizi.
+
 Aykırı ve eksik gözlemlerin belirlenip düzenlenmesi.
+
 Korelasyon analizi
 
 2- Feature Engineering
+
 Feature Extraction işlemlerinin gerçekleştirilmesi
+
 Encode işlemlerinşn gerçekleştirilmesi.
+
 Standartlaştırma ve modelin kurulması.
 
 ## VERİ SETİ HİKAYESİ 
