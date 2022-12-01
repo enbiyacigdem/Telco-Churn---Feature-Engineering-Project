@@ -6,7 +6,20 @@
 
 Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli
 geliştirilmesi istenmektedir. Modeli geliştirmeden önce gerekli olan veri analizi
-ve özellik mühendisliği adımlarını gerçekleştirmeniz beklenmektedir.
+ve özellik mühendisliği adımları gerçekleştirilecek ve nihayetinde model geliştirilecektir.
+
+##PROJE ADIMLARI
+1- Keşifçi Veri Analizi
+Numerik ve kategorik değişkenlerin belirlenmesi ve analizi.
+Hedef değişkenin numerik ve kategorik değişkenlere göre analizi.
+Aykırı ve eksik gözlemlerin belirlenip düzenlenmesi.
+Korelasyon analizi
+
+2- Feature Engineering
+Feature Extraction işlemlerinin gerçekleştirilmesi
+Encode işlemlerinşn gerçekleştirilmesi.
+Standartlaştırma ve modelin kurulması.
+
 ## VERİ SETİ HİKAYESİ 
 
 Telco müşteri kaybı verileri, üçüncü çeyrekte Kaliforniya'daki 7043 müşteriye ev telefonu ve
